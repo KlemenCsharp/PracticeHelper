@@ -3,7 +3,7 @@ import {StyleSheet, Text, View} from 'react-native';
 export default function HomeScreen() {
   return (
     <View>
-        <Text>Practice helper</Text>
+        <Text>Practice helper test</Text>
     </View>
   );
 }
